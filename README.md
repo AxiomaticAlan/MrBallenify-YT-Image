@@ -11,3 +11,5 @@ How can I gain access?
 5-) When you are done, you will be prompted with "Details," "Remove," and "Reload." If the extension appears with errors, you can direct me to "https://github.com/AxiomaticAlan/MrBallenify-YT-Image/issues"
 
 6-) Once you are done, go to https://youtube.com or https://youtube.com/channel (of a specific username), click on the "Toggle Image Overlay" icon, and you are ready to go!
+
+![Uploading MrBallenify.png…]()
