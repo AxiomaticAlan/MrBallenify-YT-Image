@@ -24,3 +24,5 @@ Who is MrBallen? Jonathan B. Allen, known for his MrBallen YouTube channel, is a
 
 
 John launched his Youtube channel in 2020 and began filming true crime and mysteries. And he also does podcasts.
+
+What is the purpose of this repository? It's simply for fun, it generates overlays of his photographs depending on each of the YouTube video thumbnails, which are randomized.
